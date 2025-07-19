@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+google-generativeai
+Pillow
+thefuzz
+python-Levenshtein
+PyNaCl
