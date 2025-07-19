@@ -5,3 +5,8 @@ Pillow
 thefuzz
 python-Levenshtein
 PyNaCl
+pytils
+BeautifulSoup4
+feedparser
+aiohttp
+html5lib
